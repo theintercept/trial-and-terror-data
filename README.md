@@ -5,7 +5,7 @@ This database of terrorism prosecutions and sentencing information was created u
 
 Trevor Aaronson created the first iteration of this database as part of a project funded by the Investigative Reporting Program at the University of California, Berkeley. Mother Jones magazine published that data in 2011, along with accompanying articles, in a package that is still [available online](http://www.motherjones.com/special-reports/2011/08/fbi-terrorist-informants).  
 
-Beginning in 2016, Aaronson and Margot Williams collaborated to update and expand the database, with a new emphasis to include Bureau of Prisons data because so many post-9/11 terrorism defendants had been released. The cases include any prosecutions after September 11, 2001, that the U.S. government labeled as international terrorism-related. The Intercept first published this database on April 20, 2017.  
+Beginning in 2016, Aaronson and Margot Williams collaborated to update and expand the database, with a new emphasis to include Bureau of Prisons data because so many post-9/11 terrorism defendants had been released. The cases include any prosecutions after September 11, 2001, that the U.S. government labeled as related to international terrorism. The Intercept first published this database on April 20, 2017.  
 
 This database is licensed under [Creative Commons for noncommercial uses with appropriate attribution](https://creativecommons.org/licenses/by-nc-sa/4.0/). If you publish this database, in part or whole, you must credit [Trevor Aaronson](https://theintercept.com/staff/trevor-aaronson/) and [Margot Williams](https://theintercept.com/staff/margotwilliams/).  
 
